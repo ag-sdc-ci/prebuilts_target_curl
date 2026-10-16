@@ -1,0 +1,26 @@
+{
+	"provideLibs": [	
+		    "libcurl-x86_64-v2.so",
+		    "libcurl.so",
+		    "libdummy_binary_curl-x86_64-v2.so",
+		    "libdummy_binary_curl.so",
+		    "libdummy_binary_libcurl.a-x86_64-v2.so",
+		    "libdummy_binary_libcurl.a.so",
+		    "libdummy_ext_curl-x86_64-v2.so",
+		    "libdummy_ext_curl.so",
+		    "libdummy_headers_ext_curl-x86_64-v2.so",
+		    "libdummy_headers_ext_curl.so",
+		    "libdummy_pkgconfig_ext_curl-x86_64-v2.so",
+		    "libdummy_pkgconfig_ext_curl.so"
+	],
+	"requireLibs": [	
+		    "libc.so",
+		    "libcrypto.so",
+		    "libdl.so",
+		    "libm.so",
+		    "libssl.so",
+		    "libz.so",
+		    "libzstd.so"
+	],
+	"visible": true
+}

@@ -1,0 +1,6 @@
+shadow prebuilt repo: curl (target)
+  upstream: external/curl
+  api-level: 34 (branch 34-20261016)
+  blobs: org.blisslabs.ag.ext.curl.apex
+  dev-src: extracted extractive payload (libcurl.so, libcurl.a, curl/*.h headers, curl binary) + root Android.bp
+  date: 2026-10-16
